@@ -8,8 +8,7 @@ A Lincoln é uma distribuidora farmacêutica que se conecta a várias empresas e
 O objetivo deste relatório é apresentar três serviços da AWS que oferecem redução de custos direta e ganhos operacionais imediatos, adequados ao perfil da Lincoln.
 ________________________________________
 ## 🔧  1. Amazon S3 (Simple Storage Service)
-O que é
-Um serviço de armazenamento na nuvem extremamente seguro, escalável e com pagamento apenas pelo que for utilizado.
+O que é um serviço de armazenamento na nuvem extremamente seguro, escalável e com pagamento apenas pelo que for utilizado.
 Como reduz custos
 •	Elimina a necessidade de servidores físicos e sistemas de backup on-premise.
 •	Reduz o custo de armazenamento em até 70% quando comparado a estruturas tradicionais.
